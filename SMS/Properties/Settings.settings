@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SMS_MySmsService_SendReceive" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://ip.sms.ir/ws/SendReceive.asmx</Value>
+    </Setting>
+    <Setting Name="SMS_SmsService_SendReceive" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://ip.sms.ir/ws/SendReceive.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
